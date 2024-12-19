@@ -7,4 +7,8 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  build: {
+    outDir: 'build', // Specify the directory where the build output should go
+  },
+  base: '/sleek/',
 });

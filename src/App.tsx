@@ -16,6 +16,7 @@ export default function App() {
         <div className="min-h-screen bg-gray-50 dark:bg-gray-900 flex flex-col">
           <Header />
           <main className="flex-grow pt-16">
+          <BrowserRouter basename="/sleek">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/products" element={<Products />} />
@@ -23,6 +24,7 @@ export default function App() {
               <Route path="/contact" element={<Contact />} />
               <Route path="/inquiry/:productId" element={<ProductInquiry />} />
             </Routes>
+           </BrowserRouter>
           </main>
           <Footer />
         </div>
