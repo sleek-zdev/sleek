@@ -13,16 +13,17 @@ export default function ProductCard({ product }: ProductCardProps) {
   const navigate = useNavigate();
 
   const handleInquiry = () => {
-    navigate(`/inquiry/${product.id}`);
+    const formUrl = "https://docs.google.com/forms/d/e/1FAIpQLScB-ePB2pDWUeW8LpFa-7v-XlUgvTmsR04-652_r-60Hhua-A/viewform?usp=header";
+    window.location.href = formUrl;
   };
 
   return (
     <Card className="group h-full">
       <div className="aspect-square overflow-hidden">
         <img
-          src={product.image}
+          src={`/sleek/images/${product.image}`}
           alt={product.name}
-          className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+          className="w-full h-full object-contain transition-transform duration-300 group-hover:scale-105"
           loading="lazy"
         />
       </div>
@@ -48,7 +49,7 @@ export default function ProductCard({ product }: ProductCardProps) {
           </div>
         </div>
         <div className="flex items-center justify-between">
-          <span className="text-lg font-bold">${product.price.toFixed(2)}</span>
+          <span className="text-lg font-bold">₹ {product.price}</span>
           <Button size="sm" onClick={handleInquiry}>Send Inquiry</Button>
         </div>
       </div>

@@ -4,23 +4,47 @@
     "name": "Red Blue Jersey",
     "baseColor": "red",
     "subColor": "blue",
-    "price": 59.99,
-    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&q=80&w=800"
+    "price": 550,
+    "image": "D1.png"
   },
   {
-    "id": "jersey-002",
-    "name": "Green Yellow Jersey",
-    "baseColor": "green",
-    "subColor": "yellow",
-    "price": 69.99,
-    "image": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?auto=format&fit=crop&q=80&w=800"
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D2.png"
   },
   {
-    "id": "jersey-003",
-    "name": "Blue Red Jersey",
-    "baseColor": "blue",
-    "subColor": "red",
-    "price": 79.99,
-    "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&q=80&w=800"
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D3.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D4.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D5.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D6.png"
   }
 ]
