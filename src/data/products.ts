@@ -22,7 +22,7 @@ export const products = Array.from({ length: 15 }, (_, i) => {
     name: `${subColor} ${baseColor} Jersey`,
     baseColor,
     subColor,
-    price: 59.99 + Math.floor(Math.random() * 40),
+    price: 550,
     image: `/images/${getRandomItem(imageFilenames)}`,
   };
 });
