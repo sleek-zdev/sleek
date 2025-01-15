@@ -14,7 +14,8 @@ export default function ProductCard({ product }: ProductCardProps) {
   const navigate = useNavigate();
 
   const handleInquiry = () => {
-    navigate(`/inquiry/${product.id}`);
+    const formUrl = "https://docs.google.com/forms/d/e/1FAIpQLScB-ePB2pDWUeW8LpFa-7v-XlUgvTmsR04-652_r-60Hhua-A/viewform?usp=header";
+    window.location.href = formUrl;
   };
 
   return (
