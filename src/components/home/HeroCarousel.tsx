@@ -8,14 +8,14 @@ const slides = [
     description: 'Customize Your Sport WIth Us',
   },
   {
-    image: 'https://images.unsplash.com/photo-1518063319789-7217e6706b04?auto=format&fit=crop&q=80&w=2000',
-    title: 'Custom Team Designs',
-    description: 'Your team, your style, your way',
+    image: '/sleek/images/Home_sc_1.png',
+    title: 'CUSTOM SPORTSWEAR',
+    description: 'Customize Your Sport WIth Us',
   },
   {
-    image: 'https://images.unsplash.com/photo-1511886929837-354d827aae26?auto=format&fit=crop&q=80&w=2000',
-    title: 'Professional Grade',
-    description: 'Trusted by athletes worldwide',
+    image: '/sleek/images/Home_sc_1.png',
+    title: 'CUSTOM SPORTSWEAR',
+    description: 'Customize Your Sport WIth Us',
   },
 ];
 

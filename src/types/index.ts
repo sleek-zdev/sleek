@@ -1,5 +1,5 @@
 export interface Product {
-  id: string;
+  Product: string;
   name: string;
   baseColor: string;
   subColor: string;

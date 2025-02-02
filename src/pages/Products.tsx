@@ -53,7 +53,7 @@ export default function Products() {
           >
             {filteredProducts.map((product) => (
               <motion.div
-                key={product.id}
+                key={product.Product}
                 layout
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}

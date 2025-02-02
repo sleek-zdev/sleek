@@ -28,7 +28,7 @@ export default function Header() {
               className="h-16 w-16" // You can adjust the size of your logo
             />
             <span className="text-xl font-bold text-gray-900 dark:text-white">
-              Sleek
+              Sleek Sports & Fitness
             </span>
           </Link>
 
