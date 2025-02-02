@@ -46,5 +46,117 @@
     "subColor": "blue",
     "price": 550,
     "image": "D6.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D7.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D8.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D9.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D10.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D11.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D12.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D13.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D14.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D15.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D16.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D17.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D18.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D19.png"
+  },
+  {
+    "id": "jersey-001",
+    "name": "Red Blue Jersey",
+    "baseColor": "red",
+    "subColor": "blue",
+    "price": 550,
+    "image": "D20.png"
   }
 ]

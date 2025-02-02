@@ -3,9 +3,9 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const slides = [
   {
-    image: 'https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&q=80&w=2000',
-    title: 'Premium Quality Jerseys',
-    description: 'Crafted for champions, designed for excellence',
+    image: '/sleek/images/Home_sc_1.png',
+    title: 'CUSTOM SPORTSWEAR',
+    description: 'Customize Your Sport WIth Us',
   },
   {
     image: 'https://images.unsplash.com/photo-1518063319789-7217e6706b04?auto=format&fit=crop&q=80&w=2000',
@@ -33,7 +33,7 @@ export default function HeroCarousel() {
   const prevSlide = () => setCurrentSlide((prev) => (prev - 1 + slides.length) % slides.length);
 
   return (
-    <div className="relative h-[600px] overflow-hidden">
+    <div className="relative h-[800px] overflow-hidden">
       {slides.map((slide, index) => (
         <div
           key={index}
@@ -46,6 +46,7 @@ export default function HeroCarousel() {
             src={slide.image}
             alt={slide.title}
             className="w-full h-full object-cover"
+            
           />
           <div className="absolute inset-0 flex items-center justify-center z-20">
             <div className="text-center text-white">
